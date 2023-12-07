@@ -1,0 +1,89 @@
+﻿$(document).ready(function () {
+    $(".clarifies-highlights-wrapper .owl-highlights").owlCarousel({
+        loop: true,
+        merge: true,
+        margin: 10,
+        responsiveClass: true,
+        responsive: {
+            0: {
+                items: 1,
+                dots: true
+            },
+            600: {
+                items: 3,
+                loop: false,
+                dots: false
+            },
+            1000: {
+                items: 3,
+                loop: false,
+                margin: 20,
+                dots: false
+            }
+        }
+    });
+
+    $(".clarifies .social-share .trigger").click(function () {
+        var $this = $(this);
+        $($this)
+            .parent()
+            .toggleClass("active");
+        $("span", $this).toggleClass("sgds-icon-share sgds-icon-cross");
+    });
+
+    $(document).click(function (event) {
+        $target = $(event.target);
+        if (!$target.closest('.clarifies .social-share').length) {
+            $(".clarifies .social-share").removeClass("active");
+            $(".clarifies .social-share .sgds-icon-cross").removeClass("sgds-icon-cross").addClass("sgds-icon-share");
+        }
+    });
+
+    function popupWindow(url, title = document.title, win = window, w = 500, h = 200) {
+        const y = win.top.outerHeight / 2 + win.top.screenY - (h / 2);
+        const x = win.top.outerWidth / 2 + win.top.screenX - (w / 2);
+        return win.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + y + ', left=' + x);
+    }
+
+    $(".clarifies .facebook").click(function () {
+        popupWindow("https://www.facebook.com/sharer/sharer.php?u=" + $(this).data("url"));
+    });
+
+    $(".clarifies .twitter").click(function () {
+        popupWindow("http://www.twitter.com/intent/tweet?text=" + encodeURI($(this).data("text")) + ": " + $(this).data("url"))
+    });
+
+    $(".clarifies .linkedin").click(function () {
+        popupWindow("https://www.linkedin.com/shareArticle?mini=true&url=" + $(this).data("url")) + '&title=' + encodeURI($(this).data("text"))
+    });
+
+    $(".clarifies .mail").each(function () {
+        var text = encodeURI($(this).data("text"));
+        var url = encodeURI($(this).data("url"));
+        $(this).attr("href", "mailto:?subject=" + text + "&body=" + url)
+    });
+
+    //desktop sidebar
+    $("#clarifies-search-form-de2a442c").keypress(function (e) {
+        if (event.keyCode == 13) {
+            $("#clarifies-search-form-de2a442c").submit();
+        }
+    });
+
+    $("#clarifies-search-form-de2a442c .sgds-icon-search").click(function (e) {
+        e.preventDefault();
+        $("#clarifies-search-form-de2a442c").submit();
+    });
+
+    //mobile sidebar
+    $("#clarifies-search-form-cebd7013").keypress(function (e) {
+        if (event.keyCode == 13) {
+            $("#clarifies-search-form-cebd7013").submit();
+        }
+    });
+
+    $("#clarifies-search-form-cebd7013 .sgds-icon-search").click(function (e) {
+        e.preventDefault();
+        $("#clarifies-search-form-cebd7013").submit();
+    });
+});

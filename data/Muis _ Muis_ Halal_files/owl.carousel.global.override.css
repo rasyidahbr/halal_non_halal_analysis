@@ -1,0 +1,101 @@
+/* override owl.carousel.min.css*/
+.owl-carousel-global .owl-nav .owl-prev {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    left: 0;
+    top: 40%;
+    height: 32px;
+    width: 12px;
+    background: url(../images/icon/highlight-arrow.png) no-repeat;
+    margin-left: -25px !important;
+}
+
+.owl-carousel-global .owl-nav .owl-next {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    right: 0;
+    top: 40%;
+    height: 32px !important;
+    background: url(../images/icon/highlight-arrow.png) no-repeat;
+    width: 12px;
+    background-position: -23px 0px;
+    margin-right: -30px !important;
+}
+
+@media screen and (max-width: 600px) {
+    .owl-carousel-global .owl-item {
+        padding: 0 40px 0 40px;
+    }
+}
+
+.owl-carousel-global .owl-nav .owl-prev:hover {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    left: 0;
+    top: 40%;
+    height: 32px !important;
+    background: url(../images/icon/highlight-arrow.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.owl-carousel-global .owl-nav .owl-next:hover {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    right: 0;
+    top: 40%;
+    height: 32px;
+    background: url(../images/icon/highlight-arrow.png) no-repeat;
+    background-position: -35px 0px;
+}
+
+@media screen and (max-width: 767px) {
+    .owl-carousel-global .owl-nav .owl-next {
+        margin-right: 0 !important;
+    }
+
+    .owl-carousel-global .owl-nav .owl-prev {
+        margin-left: 0 !important;
+    }
+}
+
+/* override owl.theme.default.min.css*/
+.owl-carousel-global .owl-nav {
+    margin-top: 0;
+}
+
+.owl-carousel-global .owl-nav [class*=owl-] {
+    color: transparent;
+    padding: 0;
+}
+
+.owl-carousel-global .owl-nav .disabled {
+    opacity: 1;
+}
+
+.owl-carousel-global .owl-dots .owl-dot.active span, .owl-carousel-global .owl-dots .owl-dot:hover span {
+    background: #f7a04a;
+}

@@ -1,0 +1,19 @@
+(function () {
+    $(".map-point").on("mouseover", function () {
+        $("div", this).show();
+    });
+    $(".map-point").on("mouseout", function () {
+        $("div", this).hide();
+    });
+
+    $(".map-point").on("click", function () {
+        $(".map-point div").hide();
+        $("div", this).show();
+    });
+
+    $(document).on("click", function (e) {
+        if ($(e.target).closest(".map-point").length === 0) {
+            $(".map-point div").hide();
+        }
+    });
+})();
