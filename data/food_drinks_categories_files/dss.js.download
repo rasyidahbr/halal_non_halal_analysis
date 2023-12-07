@@ -1,0 +1,54 @@
+$("#searchtoggle").click(function() {
+  $("#searchcollapse").slideToggle(200);
+});
+
+$("#gs-search-btn-desktop").on("click", function() {
+  var e = $("#desktop-search").val();
+  "" !== e &&
+    window.open(
+      "https://cse.google.com/cse?cx=003458834176260139333:nyrtewic20e&q=" +
+        escape(e)
+    );
+});
+$("#desktop-search").keyup(function(e) {
+  13 === e.keyCode && $("#gs-search-btn-desktop").click();
+});
+
+$("#new-search").after(
+  '<img id="mobile-search-btn" alt="search" />'
+);
+$("#mobile-search-btn").on("click", function() {
+  $("#gs-search-btn").click();
+});
+
+$("#navbar1").on("show.bs.collapse", function() {
+  if ($("#navbar2").length > 0) {
+    $(this).append(
+      '<ul class="nav navbar-nav navbar-inverse">' +
+        $("#navbar2 > ul").html() +
+        "</ul>"
+    );
+    $("#navbar2 .sm").clone().appendTo(".navbar-inverse");
+    $(".sm", ".navbar-inverse").addClass("sub-section");
+  }
+});
+$("#navbar1").on("hidden.bs.collapse", function() {
+  if ($("#navbar2").length > 0) {
+    $(".navbar-inverse", "#navbar1").remove();
+  }
+});
+$(window).on("resize", function() {
+  if (window.innerWidth > 768) {
+    $("#navbar1").collapse("hide");
+  }
+});
+
+$("#drpagegroupdropdown2").on("change", function () {
+    var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
+    if (this.value && iOS) {
+        window.location.assign(this.value);
+    }
+    else {
+        window.open(this.value, '_blank');
+    }
+});
