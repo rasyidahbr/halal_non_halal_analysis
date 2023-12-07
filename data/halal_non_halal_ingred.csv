@@ -1,0 +1,1024 @@
+﻿ingred_name,chem_name,description,halal_non_halal_doubtful
+e100,Curcumin (C.I. 75300) ,Colouring,0
+e101,Riboflavin/Lactofavin/Vitamin B2 *,"Colouring/ 
+Vitamin",2
+e102,Tartrazine/FD&C Yellow 5 (C.I. 19140),Colouring,0
+e104,Quinoline Yellow (C.I. 47005),Colouring,0
+e107, Yellow 2G (C.I. 18965) ,Colouring,0
+e110,Sunset Yellow FCF/FD&C Yellow 6 (C.I. 15985,Colouring,0
+e120,Cochineal/Carmines (C.I. 75470),Colouring,0
+e122,Carmoisine/Azorubine (C.I. 14720),Colouring,0
+e123,Amaranth/FD&C Red 2 (C.I. 16185),Colouring,0
+e124,Ponceau 4R/Cochineal Red A (C.I. 16255),Colouring,0
+e127,Erythrosine/FD&C Red 3 (C.I. 45430),Colouring,0
+e128,Red 2G (C.I. 18050),Colouring,0
+e129,"Allura Red AC/Food Red 17/FD&C Red 40 (C.I. 
+16035)",Colouring,0
+e131,Patent Blue V (C.I. 42051),Colouring,0
+e132,"Indigo Carmine/Indigotine/FD&C Blue 2 (C.I. 
+73015) ",Colouring,0
+e133,Brilliant Blue FCF/FD&C Blue 1 (C.I. 42090),Colouring,0
+e140,Chlorophyll (C.I. 75810)* ,Colouring,2
+e141,Copper Complexes of Chlorophyll (C.I. 75810)*,Colouring,2
+e142,"Green S/Acid Brilliant Green BS/Food green 
+S/Lissamine green (C.I 44090) ",Colouring,0
+e150,Caramel,Colouring,0
+e151, Brilliant Black BN (C.I. 28440) ,Colouring,0
+e153,Carbon Black/Vegetable Carbon*,Colouring,2
+e154,Brown FK/Food Brown ,Colouring,0
+e155,Brown HT/Chocolate Brown HT (C.I. 20285),Colouring,0
+e160a,Alpha-/Beta-/Gamma-Carotene (C.I. 75130)* ,Colouring,2
+e160b,Annatto/Bixin/Norbixin (C.I. 75120)*,Colouring,2
+e160c,Capsanthin/Capsorubin/Paprika extract* ,Colouring,2
+e160d,Lycopene (C.I. 75125)*,Colouring,2
+e160e,Beta-apo-8'-carotenal/Beta-8’-apocarotenal*,Colouring,2
+e160f, Ethyl ester of Beta-apo-8-carotenoic acid*,Colouring,2
+e161a,Flavoxanthin*,Colouring,2
+e161b,Lutein*,Colouring,2
+e161c,Cryptoxanthin* ,Colouring,2
+e161d,Rubixanthin,Colouring,2
+e161e,Violaxanthin,Colouring,2
+e161f,Rhodoxanthin,Colouring,2
+e161g,Canthaxanthin (C.I. 40850)*,Colouring,2
+e162, Beet Red/Betanin/Betanidin,Colouring,2
+e163,Anthocyanins* ,Colouring,2
+e170,Calcium Carbonate/Chalk (C.I. 77220)*,"Inorganic 
+colouring",2
+e171,Titanium Dioxide (C.I. 77891),"Inorganic 
+colouring",0
+e172,"Iron Oxides/Red: 77491/Black: 77499 (Yellow: 
+C.I. 77492)","Inorganic 
+colouring",0
+e173,Aluminium (C.I. 77000),"Inorganic 
+colouring",0
+e174,Silver (C.I. 77820),"Inorganic 
+colouring",0
+e175,Gold (C.I. 77480),"Inorganic 
+colouring",0
+e180, Pigment Rubine/Lithol Rubine BK (C.I. 15850) ,"Inorganic 
+colouring ",0
+e200,Sorbic Acid,Preservative,0
+e201,Sodium Sorbate,Preservative,0
+e202,Potassium Sorbate,Preservative,0
+e203, Calcium Sorbate,Preservative,0
+e210,Benzoic Acid,Preservative,0
+e211,Sodium Benzoate,Preservative,0
+e212, Potassium Benzoate,Preservative,0
+e213,Calcium Benzoate ,Preservative,0
+e214, Ethyl 4-hydroxybenzoate/Ethyl parahydroxybenzoate,Preservative,0
+e215,"Ethyl 4-hydroxybenzoate, Sodium Salt/Sodium 
+ethyl para-hydroxybenzoate",Preservative,0
+e216,Propyl 4-hydroxybenzoate/Propylparaben,Preservative,0
+e217,"Propyl 4-hydroxybenzoate, Sodium Salt",Preservative,0
+e218,Methyl 4-hydroxybenzoate/Methylparaben,Preservative,0
+e219,"Methyl 4-hydroxybenzoate, Sodium Salt ",Preservative,0
+e220,Sulphur Dioxide,Preservative,0
+e221,Sodium Sulphite ,Preservative,0
+e222,Sodium Hydrogen Sulphite/Sodium Bisulphite,Preservative,0
+e223,Sodium Metabisulphite,Preservative,0
+e224,"Potassium Metabisulphite/Potassium 
+Pyrosulphite",Preservative,0
+e225,Potassium Sulphite,Preservative,0
+e226,Calcium Sulphite,Preservative,0
+e227,Calcium Hydrogen Sulphite/Calcium Bisulphite,Preservative,0
+e230,Biphenyl/Diphenyl ,Preservative,0
+e231,2-Hydroxybiphenyl ,Preservative,0
+e232,Sodium Biphenyl-2-yl-oxide,Preservative,0
+e233,2-(Thiazol-4-yl) Benzimidazole,Preservative,0
+e234,Nisin,Preservative,2
+e235,Natamycin/Pimaricin,Preservative,2
+e236,Formic Acid,Preservative,0
+e237, Sodium Formate,Preservative,0
+e238,Calcium Formate,Preservative,0
+e239,Hexamine,Preservative,0
+e249,Potassium Nitrite,Preservative,0
+e250,Sodium Nitrite,Preservative,0
+e251, Sodium Nitrate ,Preservative,0
+e252, Potassium Nitrate/Saltpetre,Preservative,2
+e260,Acetic Acid,Food Acid,0
+e261,Potassium Acetate,Food Acid,0
+e262,Sodium Acetate,Food Acid,0
+e263,Calcium Acetate ,Food Acid,0
+e264,Ammonium Acetate,Food Acid,0
+e270,Lactic Acid,Food Acid,2
+e280,Propionic Acid,Preservative,2
+e281,Sodium Propionate,Preservative,2
+e282,Calcium Propionate,Preservative,2
+e283,Potassium Propionate,Preservative,2
+e290,Carbon Dioxide ,Propellant,0
+e296,Malic Acid (DL- or L-) ,Food Acid,0
+e297,Fumaric Acid,Food Acid,2
+e300,L-Ascorbic Acid/Vitamin C,"Antioxidant/ 
+Vitamin",2
+e301,Sodium Ascorbate,"Antioxidant/ 
+Vitamin",0
+e302,Calcium Ascorbate,"Antioxidant/ 
+Vitamin",0
+e303,Potassium Ascorbate,"Antioxidant/ 
+Vitamin",0
+e304,Ascorbyl Palmitate,"Antioxidant/ 
+Vitamin",2
+e306,"Tocopherol Concentrate, Mixed/Vitamin E ","Antioxidant/ 
+Vitamin",0
+e307, Synthetic Alpha-Tocopherol,"Antioxidant/ 
+Vitamin",0
+e308,Synthetic Gamma-Tocopherol,"Antioxidant/ 
+Vitamin",0
+e309,Synthetic Delta-Tocopherol ,"Antioxidant/ 
+Vitamin",0
+e310,Propyl Gallate,Antioxidant,0
+e311,Octyl Gallate,Antioxidant,0
+e312,Dodecyl Gallate,Antioxidant,0
+e317,Erythorbic Acid/Iso-ascorbic Acid,Antioxidant,2
+e318,Sodium Erythorbate/Sodium Iso-Ascorbate,Antioxidant,2
+e319, tert-Butylhydroquinone/TBHQ,Antioxidant,2
+e320,Butylated Hydroxyanisole (BHA),Antioxidant,2
+e321,Butylated Hydroxytoluene (BHT),Antioxidant,2
+e322,Lecithins,"Emulsifier/ 
+Antioxidant",2
+e325,Sodium Lactate,Food Acid,2
+e326,Potassium Lactate,Food Acid,2
+e327,Calcium Lactate,Food Acid,2
+e328,Ammonium Lactate,Food Acid,2
+e329,Magnesium Lactate,Food Acid,2
+e330,Citric Acid,Food Acid,2
+e331,Sodium Citrates,Food Acid,2
+e332,Potassium Citrates,Food Acid,2
+e333,Calcium Citrates,Food Acid,2
+e334,Tartaric Acid,Food Acid,2
+e335,Sodium Tartrate,Food Acid,2
+e336,"Potassium Tartrate/Potassium Hydrogen 
+Tartrate/Cream of Tartar ",Food Acid,2
+e337,Potassium Sodium Tartrate,Food Acid,2
+e338,Phosphoric Acid/Orthophosphoric Acid,Miscellaneous ,0
+e339,Sodium Phosphates ,Mineral Salt ,0
+e340,Potassium Phosphates,Mineral Salt ,0
+e341,Calcium Phosphates ,Mineral Salt ,0
+e343,Magnesium Phosphates,Mineral Salt ,0
+e350,Sodium Malate/Sodium Hydrogen Malate,Food Acid ,0
+e351,Potassium Malate,Food Acid ,0
+e352,Calcium Malate/Calcium Hydrogen Malate,Food Acid ,0
+e353,Metatartaric Acid,Sequestrant,2
+e355,Adipic Acid/Hexanedioic Acid,Buffer,0
+e357,Potassium Adipate,Buffer,0
+e363,Succinic Acid,"Buffer/ Food 
+Acid",2
+e365,Sodium Fumarate,Food Acid ,2
+e366,Potassium Fumarate,Food Acid ,2
+e367,Calcium Fumarate,Food Acid ,2
+e370,"1,4-Heptonolactone",Sequestrant,0
+e375,Niacin/Nicotinic Acid/Nicotinamide,Vitamin,0
+e380,Triammonium Citrate,Buffer,2
+e381,Ammonium Ferric Citrate,"Dietary 
+Supplement",2
+e385,Calcium Disodium EDTA,"Chelating 
+Agent ",0
+e400,Alginic Acid,"Vegetable 
+Gum",0
+e401,Sodium Alginate,"Vegetable 
+Gum",0
+e402,Potassium Alginate ,"Vegetable 
+Gum",0
+e403,Ammonium Alginate,"Vegetable 
+Gum",0
+e404,Calcium Alginate,"Vegetable 
+Gum",0
+e405,"Propane-1,2-Diol Alginate/Propylene Glycol 
+Alginate/Alginate Ester","Vegetable 
+Gum",0
+e406,Agar/Agar-Agar/Japanese Isinglass,"Vegetable 
+Gum",0
+e407,Carrageenan/Irish Moss,"Vegetable 
+Gum",0
+e410,Locust Bean Gum/Carob Bean Gum ,"Vegetable 
+Gum",0
+e412,Guar Gum,"Vegetable 
+Gum",0
+e413,Tragacanth/Gum Tragacanth,"Vegetable 
+Gum",0
+e414,Acacia/Gum Arabic,"Vegetable 
+Gum",0
+e415,Xanthan Gum/Corn Sugar Gum,"Vegetable 
+Gum",2
+e416,Karaya Gum/Sterculia Gum,"Vegetable 
+Gum",0
+e420,Sorbitol/Sorbitol Syrup,Humectant,2
+e421,Mannitol/Manna Sugar,Humectant,0
+e422,Glycerol/Glycerin,Humectant,2
+e430,Polyoxyethylene (8) Stearate,Emulsifier,2
+e431,Polyoxyethylene (40) Stearate,Emulsifier,2
+e432,"Polyoxyethylene (20) Sorbitan 
+Monolaurate/Polysorbate 20/Tween 20",Emulsifier,2
+e433,Polyoxyethylene (20) Sorbitan Mono-Oleate/Polysorbate 80/Tween 80,Emulsifier,2
+e434,"Polyoxyethylene (20) Sorbitan 
+Monopalmitate/Polysorbate 40/Tween 40",Emulsifier,2
+e435,"Polyoxyethylene (20) Sorbitan 
+Monostearate/Polysorbate 60/Tween 60",Emulsifier,2
+e436,"Polyoxyethylene (20) Sorbitan 
+Tristearate/Polysorbate 65/Tween 65",Emulsifier,2
+e440a,Pectin,"Stabiliser/ 
+Thickening 
+Agent",0
+e440b,Amidated Pectin,"Emulsifier/ 
+Stabiliser",0
+e441,Gelatine,"Emulsifier/ 
+Stabiliser",2
+e442,Ammonium Phosphatides/Emulsifier YN ,"Emulsifier/ 
+Stabiliser",0
+e450,"Sodium and Potassium Metaphosphates, 
+Polyphosphates and Pyrophosphates",Mineral Salt,0
+e460, Microcrystalline Cellulose/Powdered Cellulose,"Anticaking 
+Agent",0
+e461,Methylcellulose/Cologel/Methocel,"Vegetable 
+Gum",0
+e463,Hydroxypropylcellulose,"Vegetable 
+Gum",0
+e464,Hydroxypropyl-Methylcellulose,"Vegetable 
+Gum",0
+e465, Ethylmethylcellulose ,"Vegetable 
+Gum",0
+e466,Sodium Carboxymethylcellulose/CMC,"Vegetable 
+Gum",0
+e469,Sodium Caseinate ,"Emulsifier/ 
+Stabiliser",0
+e470," Sodium, Potassium and Calcium Salts of Fatty 
+Acids","Emulsifier/ 
+Stabiliser",2
+e471,Mono-and Diglycerides of Fatty Acids,"Emulsifier/ 
+Stabiliser",2
+e472,Various Esters of Glycerol,"Emulsifier/ 
+Stabiliser",2
+e473,Sucrose Esters of Fatty Acids,"Emulsifier/ 
+Stabiliser",2
+e474,Sucroglycerides,"Emulsifier/ 
+Stabiliser",2
+e475,Polyglycerol Esters of Fatty Acids,"Emulsifier/ 
+Stabiliser",2
+e476,Polyglycerol Polyricinoleate,"Emulsifier/ 
+Stabiliser",2
+e477,"Propane-1,2-Diol Esters of Fatty Acids","Emulsifier/ 
+Stabiliser",2
+e481,Sodium Stearoyl-2-Lactylate,"Emulsifier/ 
+Stabiliser",2
+e482,Calcium Stearoyl-2-Lactylate,"Emulsifier/ 
+Stabiliser",2
+e483,Stearyl Tartrate,"Emulsifier/ 
+Stabiliser",2
+e491,Sorbitan Monostearate,"Emulsifier/ 
+Stabiliser",2
+e492,Sorbitan Tristearate/Span 65,"Emulsifier/ 
+Stabiliser",2
+e493,Sorbitan Monolaurate/Span 20,"Emulsifier/ 
+Stabiliser",2
+e494,Sorbitan Monooleate/Span 80,"Emulsifier/ 
+Stabiliser",2
+e495,Sorbitan Monopalmitate/Span 40,"Emulsifier/ 
+Stabiliser",2
+e500,"Sodium Carbonate/Sodium Bicarbonate/Baking 
+Soda ",Mineral Salt,0
+e501,"Potassium Carbonate/Potassium Hydrogen 
+Carbonate",Mineral Salt,0
+e503,"Ammonium Bicarbonate/Ammonium Hydrogen 
+Carbonate",Mineral Salt,0
+e504,Magnesium Carbonate ,Mineral Salt,0
+e507,Hydrochloric Acid ,Food Acid,0
+e508,Potassium Chloride,"Salt 
+Substitute",0
+e509,Calcium Chloride,Mineral Salt,0
+e510,Ammonium Chloride,"Flour 
+Treatment 
+Agent",0
+e511, Magnesium Chloride,Firming Agent,0
+e513,Sulphuric Acid,Food Acid,0
+e514,Sodium Sulphate,Diluent,0
+e515,Potassium Sulphate,"Salt 
+Substitute",0
+e516,Calcium Sulphate,"Flour 
+Treatment 
+Agent",0
+e518,Magnesium Sulphate,"Dietary 
+Supplement/ 
+Firming Agent",0
+e519,Cupric Sulphate/Copper Sulphate,"Preservative/ 
+Colour 
+Fixative",0
+e524,Sodium Hydroxide,"Neutralising 
+Agent",0
+e525,Potassium Hydroxide,"Oxidising 
+Agent",0
+e526,Calcium Hydroxide,"Neutralising 
+Agent",0
+e527,Ammonium Hydroxide,Alkali,0
+e528,Magnesium Hydroxide,Alkali,0
+e529,Calcium Oxide,Alkali,0
+e530,Magnesium Oxide,Alkali,0
+e535,Sodium Ferrocyanide,"Anticaking 
+Agent",0
+e536,Potassium Ferrocyanide,"Anticaking 
+Agent",0
+e540, Dicalcium Diphosphate,Buffer,0
+e541,Sodium Aluminium Phosphate,"Aerator/ 
+Emulsifying 
+Salt",0
+e542,Edible Bone Phosphate/Bone Meal,"Anticaking 
+Agent",0
+e544,Calcium Polyphosphates,"Emulsifying 
+Salt",0
+e545,Ammonium Polyphosphates,"Emulsifying 
+Salt",0
+e551,Silicon Dioxide/Silica Salt,"Anticaking 
+Agent",0
+e552,Calcium Silicate ,"Anticaking 
+Agent",0
+e553a,Magnesium Silicate/Magnesium Trisilicate,"Anticaking 
+Agent",0
+e553b,Talc,"Anticaking 
+Agent",0
+e554,"Aluminium Sodium Silicate/Sodium 
+Aluminosilicate","Anticaking 
+Agent",0
+e556,Aluminium Calcium Silicate,"Anticaking 
+Agent",0
+e558,Bentonite,"Anticaking 
+Agent",0
+e559,Kaolin,"Anticaking 
+Agent",0
+e570,Stearic Acid,"Anticaking 
+Agent",2
+e572,Magnesium Stearate,"Anticaking 
+Agent",2
+e575, Glucono Delta-Lactone,Sequestrant,0
+e576,Sodium Gluconate,Sequestrant,0
+e577,Potassium Gluconate ,Sequestrant,0
+e578,Calcium Gluconate ,Sequestrant,0
+e579,Ferrous Gluconate,"Colouring/ 
+Flavouring",0
+e620,L-Glutamic Acid,"Flavour 
+Enhancer",2
+e621,Monosodium Glutamate/MSG,"Flavour 
+Enhancer",2
+e622,Monopotassium Glutamate,"Flavour 
+Enhancer",2
+e623,Calcium Glutamate,"Flavour 
+Enhancer",2
+e627,Disodium Guanylate,"Flavour 
+Enhancer",2
+e631,Disodium Inosinate,"Flavour 
+Enhancer",2
+e635,Sodium 5'-Ribonucleotide,"Flavour 
+Enhancer",2
+e636,Maltol,"Flavour 
+Enhancer",0
+e637,Ethyl Maltol ,"Flavour 
+Enhancer",0
+e900,Dimethylpolysiloxane/Dimethicone,"Antifoaming 
+Agent",0
+e901,Beeswax,Glazing Agent,2
+e903, Carnauba Wax,Glazing Agent,0
+e904,Shellac,Glazing Agent,2
+e905,Mineral Oil/Petrolatum,Glazing Agent,0
+e907,Refined Microcrystalline Wax,Glazing Agent,0
+e920,L-Cysteine Hydrochloride,"Flour 
+Treatment 
+Agent",2
+e924,Potassium Bromate,"Flour 
+Treatment 
+Agent",0
+e925,Chlorine,"Preservative/ 
+Bleaching 
+Agent",0
+e926, Chlorine Dioxide,"Bleaching 
+Agent/ 
+Improving 
+Agent",0
+e927,Azodicarbonamide/Azoformamide,"Improving 
+Agent ",0
+e928,Benzoyl Peroxide/Dibenzoyl Peroxide ,"Bleaching 
+Agent ",0
+e931,Nitrogen,Propellant,0
+e932,Nitrous Oxide,Propellant,0
+e950,Acesulphame Potassium/Sunett,"Artificial 
+Sweetener",0
+e951,Aspartame/Nutrasweet,"Artificial 
+Sweetener",0
+e952,Cyclamic and its Calcium and Sodium Salts,"Artificial 
+Sweetener",0
+e954,Saccharin and its Calcium and Sodium Salts ,"Artificial 
+Sweetener",0
+e957,Thaumatin,"Artificial 
+Sweetener",0
+e965,Hydrogenated Glucose Syrup,Humectant,2
+e967,Xylitol,Sweetener,0
+e1200,Polydextrose,Miscellaneous,2
+e1201, Polyvinylpyrrolidone,Miscellaneous,0
+e1202, Polyvinyl Polypyrrolidone ,Miscellaneous,0
+e1400,Dextrin,Thickener,0
+e1403,Bleached Starch,Thickener,0
+e1404,Oxidised Starch,Thickener,0
+e1405,Enzyme-treated Starch,Thickener,2
+e1410,Monostarch Phosphate,Thickener,0
+e1412,Distarch Phosphate,Thickener,0
+e1413,Phosphated Distarch Phosphate,Thickener,0
+e1414,Acetylated Distarch Phosphate,Thickener,0
+e1420, Starch Acetate Esterified with Acetic Anhydride,Thickener,0
+e1421,Starch Acetate Esterified with Vinyl Acetate,Thickener,0
+e1422,Acetylated Distarch Adipate,Thickener,0
+e1440, Hydroxypropyl Starch,Thickener,0
+e1442,Hydroxypropyl Distarch Phosphate,Thickener,0
+e1450,"Starch, Sodium Octenylsuccinate",Thickener,0
+e1505,Triethyl Citrate/Ethyl Citrate,Miscellaneous,0
+e1510,Ethyl Alcohol/Ethanol,Miscellaneous,2
+e1518,Triacetin/Glycerol Triacetate,Miscellaneous,2
+e1520,Propylene Glycol,Miscellaneous,2
+107,Yellow 2G,Colors,2
+128,Red 2G,Colors,2
+133,Brilliant Blue FCF,Colors,2
+154,Brown FK,Colors,2
+155,Brown HT,Colors,2
+234,Nisin,Preservative - other,0
+262,Sodium Acetate,Miscellaneous - Acids and their Salts,0
+296,Malic Acid,Miscellaneous - Acids and their Salts,0
+297,Fumaric Acid,Miscellaneous - Acids and their Salts,0
+350,Sodium Malate,Miscellaneous - Acids and their Salts,0
+351,Potassium Malate,Miscellaneous - Acids and their Salts,0
+352,Calcium Malate,Miscellaneous - Acids and their Salts,0
+353,Metataric Acid,Miscellaneous - Acids and their Salts,0
+355,Adipic Acid,Miscellaneous - Acids and their Salts,0
+363,Succinic Acid,Miscellaneous - Acids and their Salts,0
+370,"1,4-Heptonolactane",Miscellaneous - Acids and their Salts,0
+375,Nicotinic Acid,Miscellaneous - Acids and their Salts,0
+380,Triammonium Citrate,Miscellaneous - Acids and their Salts,0
+381,Ammonium Ferric Citrate,Miscellaneous - Acids and their Salts,0
+385,Calcium Disodium EDTA,Miscellaneous - Acids and their Salts,0
+416,Karaya Gum,Emulsifiers and Stabilizers,0
+430,Polyoxyethane (8) Stearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+431,Polyoxyethane (40) Stearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+432,Polyoxyethane (20) Sorbitan / Polysorbate 20,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+433,Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+434,Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+435,Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+436,Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+476,Polyglycerol Esters of Polycondensed Esters of Caster Oil,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+478,"Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+491,Sorbitan Monostearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+492,Sorbitan Tristearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+493,Sorbitan Monolaurate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+494,Sorbitan Mono-oleate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+495,Sorbitan Monopalmitate,Emulsifiers and Stabilizers - Fatty Acid derivatives,2
+500,Sodium Carbonate / Sodium Bicarbonate,Miscellaneous - Acids and Salts: Carbonates,0
+501,Potassium Carbonate / Potassium Bicarbonate,Miscellaneous - Acids and Salts: Carbonates,0
+503,Ammonium Carbonate,Miscellaneous - Acids and Salts: Carbonates,0
+504,Magnesium Carbonate,Miscellaneous - Acids and Salts: Carbonates,0
+507,Hydrochloric Acid,Miscellaneous - Acids and Salts: Carbonates,0
+508,Potassium Chloride,Miscellaneous - Acids and Salts: Carbonates,0
+509,Calcium Chloride,Miscellaneous - Acids and Salts: Carbonates,0
+510,Ammonium Chloride,Miscellaneous - Acids and Salts: Carbonates,0
+513,Sulphuric Acid,Miscellaneous - Acids and Salts: Carbonates,0
+514,Sodium Sulphate,Miscellaneous - Acids and Salts: Carbonates,0
+515,Potassium Sulphate,Miscellaneous - Acids and Salts: Carbonates,0
+516,Calcium Sulphate,Miscellaneous - Acids and Salts: Carbonates,0
+518,Magnesium Sulphate,Miscellaneous - Acids and Salts: Carbonates,0
+524,Sodium Hydroxide,Miscellaneous - Alkalis,0
+525,Potassium Hydroxide,Miscellaneous - Alkalis,0
+526,Calcium Hydroxide,Miscellaneous - Alkalis,0
+527,Ammonium Hydroxide,Miscellaneous - Alkalis,0
+528,Magnesium Hydroxide,Miscellaneous - Alkalis,0
+529,Calcium Oxide,Miscellaneous - Alkalis,0
+530,Magnesium Oxide,Miscellaneous - Alkalis,0
+535,Sodium Ferrocyanide,Miscellaneous - other Salts,0
+536,Potassium Ferrocyanide,Miscellaneous - other Salts,0
+540,Dicalcium Ferrocyanide,Miscellaneous - other Salts,0
+541,Sodium Aluminium Phosphate,Miscellaneous - other Salts,0
+542,Edible Bone Phosphate (Bone-Meal),Miscellaneous - Anti-Caking Agents,1
+544,Calcium Polyphosphates,Miscellaneous - Anti-Caking Agents,2
+545,Ammonium Polyphosphates,Miscellaneous - Anti-Caking Agents,0
+551,Silicon Dioxide (Silica Salt),Miscellaneous - Silicon Salts,0
+552,Calcium Silicate,Miscellaneous - Silicon Salts,0
+553,Magnesium Silicate / Magnesium Trisilicate (Talc),Miscellaneous - Silicon Salts,0
+554,Aluminium Sodium Silicate,Miscellaneous - Silicon Salts,0
+556,Aluminium Calcium Silicate,Miscellaneous - Silicon Salts,2
+558,Bentonite,Miscellaneous - other compounds,0
+559,Kaolin (Aluminium Silicate),Miscellaneous - other compounds,0
+570,Stearic Acid,Miscellaneous - other compounds,2
+572,Magnesium Stearate,Miscellaneous - other compounds,2
+575,Glucono Delta-Lactone,Miscellaneous - other compounds,0
+576,Sodium Gluconate,Miscellaneous - other compounds,0
+577,Potassium Gluconate,Miscellaneous - other compounds,0
+578,Calcium Gluconate,Miscellaneous - other compounds,0
+620,L-Glutamic Acid,Miscellaneous - Flavour Enhancers,2
+621,Monosodium Glutamate (MSG),Miscellaneous - Flavour Enhancers,2
+622,Monopotassium Glutamate,Miscellaneous - Flavour Enhancers,2
+623,Calcium Glutamate,Miscellaneous - Flavour Enhancers,2
+627,Sodium Guanylate,Miscellaneous - Flavour Enhancers,2
+631,Sodium Inosinate,Miscellaneous - Flavour Enhancers,2
+635,Sodium5-Ribonucleotide,Miscellaneous - Flavour Enhancers,2
+636,Maltol,Miscellaneous - Flavour Enhancers,0
+637,Ethyl Maltol,Miscellaneous - Flavour Enhancers,0
+900,Dimethylpolysiloxane,Miscellaneous - Flavour Enhancers,0
+901,Beeswax,Miscellaneous - Glazing Agents,0
+903,Carnauba Wax,Miscellaneous - Glazing Agents,0
+904,Shellac,Miscellaneous - Glazing Agents,2
+905,Mineral Hydrocarbons,Miscellaneous - Glazing Agents,0
+907,Refined Microcrystalline Wax,Miscellaneous - Glazing Agents,2
+920,L-Cysteine Hydrochloride,Miscellaneous - Compounds used to treat Flour,2
+924,Potassium Bromate,Miscellaneous - Compounds used to treat Flour,0
+925,Chlorine,Miscellaneous - Compounds used to treat Flour,0
+926,Chlorine Dioxide,Miscellaneous - Compounds used to treat Flour,0
+927,Azodicarbonamide,Miscellaneous - Compounds used to treat Flour,0
+Acesulfame Potassium,,,0
+Acetic acid,,,0
+Acetone,,,0
+Acid Casein,,,1
+Adenosine 5′ Monophosphate,,,2
+Agar,,,0
+Albumin,,,0
+Alcohol,,,1
+Almond,,,0
+Almond Nuts,,,0
+Alginic Acid,,,0
+Algin,,,0
+Allspice,,,0
+Alum,,,0
+Aluminum Ammonium Sulfate,,,0
+Ammonium Bicarbonate,,,0
+Ammonium Carbonate,,,0
+Ammonium Chloride,,,0
+Ammonium Sulfate,,,0
+Amylase,(alpha),,0
+Amylase,(beta),,0
+Anise,,,0
+Aniseed,,,0
+Annatto,,,0
+Apple Cider Vinegar,,,0
+Arrowroot,,,0
+Artificial Colors,,,2
+ FD&C Yellow No. 5,,,2
+Artificial Flavors,,,2
+Ascorbic Acid,,,0
+Aspartame,,,2
+Azodicarbonamide,,,0
+Bacon,,,1
+Baker’s Yeast,,,0
+Baker’s Yeast Extract,,,0
+Baking Powder,,,0
+Baking Soda,,,0
+Balsamic Vinegar,,,2
+Basil,,,0
+Bay Leaves,,,0
+Beer,,,1
+Beer Batters,,,1
+Beer Flavor,,,1
+Beeswax,,,0
+Behenyl Alcohol or Docosanol,,,2
+Benzaldehyde,,,0
+Benzoic acid,,,0
+Beta-Carotene,,,2
+BHA,,,2
+BHT,,,2
+Bran,,,0
+Brewer’s Yeast Extract,,,1
+Bulgur wheat,,,0
+Butter fat Lipolyzed,,,2
+Buttermilk Solids,,,2
+Caffeine,,,0
+Calcium Carbonate,,,0
+Calcium Chloride,,,0
+Calcium Citrate,,,0
+Calcium Propionate,,,0
+Calcium Sorbate,,,0
+Calcium Sulfate,,,0
+Calcium Stearate,,,2
+Calcium Stearoyl Lactylate,,,2
+Canola,,,0
+Canola Oil,,,0
+Caramel,,,0
+Carboxymethyl cellulose,,,0
+Cardamom,,,0
+Carmine color,,,1
+Carnauba Wax,,,0
+Carob,,,0
+Carob Powder,,,0
+Carob Gum,,,0
+Carrageenan,,,2
+Carrot Seed Oil,,,0
+Carrot Oleoresin,,,0
+Caseinates,,,2
+Cetyl Alcohol,,,2
+Cheese Powder,,,2
+Chicory Root,,,0
+ Root Chicory,,,0
+Chives,,,0
+Chlorine,,,0
+Chocolate Liquour,,,0
+Cocoa Liqour,,,0
+Cinnamon,,,0
+Citric Acid,,,0
+Citrus Oil,,,0
+Clove,,,0
+Cochineal Color,,,1
+Cocoa Butter,,,0
+Cocoa Powder,,,0
+Coconut,,,0
+Confectionary Glaze,,,1
+Coriander,,,0
+Corn 64,,,0
+Corn,,,0
+Corn Bran,,,0
+Corn Flour,,,0
+Cornmeal,,,0
+Corn Gluten Meal,,,0
+Corn Protein,,,0
+Corn Meal,,,0
+Corn Oil,,,0
+Corn Starch,,,0
+Corn Syrup,,,0
+Corn Syrup Solids,,,0
+Cranberry,,,0
+Cream,,,0
+Cream of Tarter,,,2
+Cultured Corn Syrup Solid,,,0
+Cultured Cream Lipolyzed,,,2
+Cultured Milk,,,2
+Cultured Wheat Flour,,,0
+Cumin,,,0
+Curry Powder,,,0
+Cytidene 5′ – Monophosphate,,,1
+DATEM,,,2
+Di- Acetyl Tartrate Ester of Monoglycerides,,,2
+Dextrin,,,0
+Dextrose,,,0
+Dicalcium Phosphate,,,0
+Diglyceride,,,2
+Dill,,,0
+Dipotassium Phosphate,,,0
+Disodium Guanosine 5′ – Monophosphate,,,1
+Disodium Guanylate,,,0
+Disodium Inosinate,,,2
+Disodium Uridine 5′ – Monophosphate,,,1
+Dried Milk,,,2
+Durum Flour,,,0
+EDTA,,,0
+Enzyme Modified Lecithin,,,2
+Enzyme Modified Soya Lecithin,,,2
+Enzymes used in Bakery Products,,,0
+Enzymes in Cheeses,,,2
+Enzymes in Dairy Products,,,2
+Erythorbic Acid,,,0
+Erythritol,,,1
+Ethoxylated Mono- and Diglycerides,,,2
+Ethyl Alcohol,,,1
+Ethanol,,,1
+Ethylvanillin,,,0
+Farina,,,0
+Fennel,,,0
+Fenugreek,,,0
+Fermented Cider,,,1
+Ferric Oxide,,,0
+Ferrous Sulphate,,,0
+Fish Gelatin,,,0
+Flour,,,0
+Bleached Flour,,,0
+Refined Flour,,,0
+Enriched Flour,,,0
+fish gelatine,,,0
+Folic Acid,,,2
+Fructose,,,0
+Fumaric Acid,,,0
+Garlic,,,0
+Garlic Powder,,,0
+Gelatin,,,1
+Gellan Gum,,,0
+Ghatti Gum,,,0
+Ginger,,,0
+Liquid Glucose,,,0
+Glucose Syrup,,,0
+Glucono Delta-Lactone,,,0
+Gluten,,,0
+Glycerin,,,2
+Glycerol Ester,,,2
+Glycerol Monostearate,,,2
+Graham Flour,,,0
+Grape,,,0
+Grape Seed Extract,,,2
+Grape Skin Powder,,,2
+Grape Seed Oil,,,2
+Guar Gum,,,0
+Ham,,,1
+Hard Cider,,,1
+High Fructose Corn Syrup,,,0
+Honey,,,0
+Horseradish,,,0
+Hydrogenated Starch Hydrolysates,,,0
+Hydrogenated Vegetable Oil,,,0
+Hydrolyzed Vegetable Protein,,,0
+Hydroxylated Lecithin,,,2
+Inosito 5′ – Monophosphate,,,1
+Inulin,,,0
+Invert Sugar,,,0
+Iron,,,0
+Isomalt,,,0
+Isopropyl Alcohol,,,0
+Isoproponal Alcohol,,,0
+Karaya Gum,,,0
+Kelp,,,0
+L-Cysteine,,,1
+Lactic Acid,,,0
+Lactitol,,,0
+Lactose,,,2
+Lanolin,,,0
+Lanolin Alcohol,,,0
+Lard,,,1
+Lecithin,,,0
+Licorice Root,,,0
+Locust Bean Gum,,,0
+Mace,,,0
+Magnesium Carbonate,,,0
+Magnesium Stearate,,,2
+Maize,,,0
+Malt,,,0
+Maltitol,,,0
+Maltodextrin,,,0
+Maltose,,,0
+Mannitol,,,0
+Maple Sugar,,,0
+Maple Syrup,,,0
+Margarine,,,2
+Marjoram,,,0
+Marshmallow,,,2
+Methylcellulose,,,0
+Microbial Enzymes,,,0
+Rennet Microbial Enzymes,,,0
+Liquid Sugar,,,0
+Lypase Microbial Enzymes,,,0
+Modified Food Starch,,,0
+Modified Starch,,,0
+Molasses,,,0
+Monocalcium Phosphate,,,0
+Monoglycerides and Diglycerides,,,2
+Monosodium Glutamate,,,0
+Mustard,,,0
+Mustard Seed,,,0
+Mustard Oil,,,0
+Natural Flavors,,,2
+Natural Hickory Smoke Flavor,,,0
+Niacin,,,2
+Vitamin B3,,,2
+Nonfat Dry Milk,,,2
+Nucleotides,,,1
+Nutmeg,,,0
+Oat,,,0
+Oat Flour,,,0
+Oatmeal,,,0
+Olive Oil,,,0
+Olive Pomace Oil,,,0
+Extra Virgin Oil,,,0
+Onion,,,0
+Palm,Oil,,
+Palm Oil,,,0
+Palm Olein,,,0
+Papain,,,0
+Paprika,,,0
+Parsley,,,0
+Partially Hydrogenated Vegetable Shortening,,,0
+Peanut,,,0
+Pectin,,,2
+Peppers,,,0
+Phenylethanol,,,0
+Phosphates,,,0
+Phosphoric Acid,,,0
+Polydextrose,,,0
+Polyglycerol Esters of Fatty Acids,,,2
+Polyoxythylene Sorbitan Monostearate,,,2
+Polysorbate 60,,,2
+Polysorbate 65,,,2
+Polysorbate 80,,,2
+Polyvinyl Alcohol,,,0
+Pork,,,1
+Potassium,,,0
+Potatoes,,,0
+Bicarbonate,,,0
+Bromate,,,0
+Sorbate,,,0
+Potassiunm Sorbate,,,0
+Potato Starch,,,0
+Potato,,,0
+Pregelatinized Starch,,,0
+Propionic Acid,,,0
+Propyle Gallate,,,0
+Propylene Glycol,,,0
+Propylene Glycol Monostearate,,,2
+Protease Enzyme,,,0
+Psyllium,,,0
+Pure 100% Vanilla Beans,,,0
+Rainbow Sprinkles,,,1
+Raisin,,,0
+Rapeseed,,,0
+Rennet,,,2
+Rennet Casein,,,2
+Riboflavin,,,2
+Rice,,,0
+Rosemary Extract,,,1
+Rum,,,1
+Rye,,,0
+Saccharine,,,0
+Safflower,,,0
+Saffron,,,0
+Sage,,,0
+Salt,,,0
+Savory,,,0
+Sea Salt,,,0
+Semolina,,,0
+Durum Wheat Flour,,,0
+Sesame,,,0
+Shallot,,,0
+Shellac,,,2
+Sherry Wine,,,1
+Silicon Dioxide,,,0
+Sodium Acetate,,,0
+Sodium Acid Pyrophosphate,,,0
+Sodium Aluminum Phosphate,,,0
+Sodium Aluminum Sulfate,,,0
+Sodium Benzoate,,,0
+Sodium Bicarbonate,,,0
+Sodium Carbonate,,,0
+Sodium Citrate,,,0
+Sodium Erythorbate,,,0
+Sodium Hydroxide,,,0
+Sodium Lactate,,,0
+Sodium Lauryl Sulfate,,,2
+Sodium Metabisulfate,,,0
+Sodium Nitrate,,,0
+Sodium Nitrite,,,0
+Sodium Sorbate,,,0
+Sodium Stearoyl Lactylate,,,0
+Softener,,,2
+Sorbic Acid,,,0
+Sorbitan Monostearate,,,2
+Sorbitol,,,0
+Sovent Extracted Modified Lecithin,,,1
+Soy Protein Concentrate,,,2
+Soy Protein Isolate,,,0
+Soy Sauce (All Purpose),,,0
+Soya Flour,,,0
+Soya Lecithin,,,0
+soy lecithin,,,0
+Soya Oil,,,0
+Soya Sauce (Naturally Brewed),,,1
+Soybean,,,0
+Soybean Oil,,,0
+Spices,,,0
+Starch,,,0
+Stevia,,,2
+Sucralose,,,0
+Sugar,,,0
+Sunflower,,,0
+Sunflower Oil,,,0
+Surimi,,,1
+Sushi,,,2
+Tapioca Starch,,,0
+Tartaric acid,,,0
+Taurine,,,2
+TBHQ,,,2
+Teriyaki,,,1
+Teriyaki Suace,,,1
+Textured Vegetable Protein,,,0
+Thiamine Mononitrate,,,2
+Titanium Dioxide,,,0
+Tocopherol,,,2
+Vitamin E,,,2
+Tofu,,,0
+Tragacanth,,,0
+Tricalcium phosphate,,,0
+Turmeric,,,2
+Turmeric Extract,,,2
+Turola Yeast,,,2
+Vanilla Bean Powder,,,2
+Vanilla Bean Specks,,,1
+Vanilla Beans,,,2
+Vanilla Extract,,,1
+Vanillin,,,0
+Vegetable Oils,,,0
+vegetable oil,,,
+Vinegar,,,0
+Vital Wheat Gluten,,,0
+Vitamin A,,,2
+Retinol,,,2
+Vitamin B12,,,2
+Cyanocobalamin,,,2
+Vitamin B1,,,2
+Thiamine,,,2
+Vitamin B2,,,2
+Riboflavin,,,2
+Vitamin B5,,,2
+Pantotherric Acid,,,2
+Vitamin B6,,,2
+Pyridoxine,,,2
+Vitamin C,,,0
+Ascorbic Acid,,,2
+Vitamin D,,,2
+Calciferol,,,2
+Vitamin E,,,2
+Tocopherol,,,2
+Vitamin K,,,2
+Water,,,0
+Wheat,,,0
+Wheat powder,,,0
+Wheat Flour,,,0
+Whey,,,2
+whey powder (from milk),(from milk),,0
+whey powder,,,2
+Whey Protein Concentrate,,,2
+Wine,,,1
+Wine Vinagar,,,1
+Worcestershire Sauce,,,2
+Xanthan Gum,,,0
+Xylitol,,,0
+Yeast,,,0
+Yeast Extract from Brewer Yeast,,,1
+Zein,,,0
+Apple,,,0
+Banana,,,0
+Orange,,,0
+Grape,,,0
+Strawberry,,,0
+Strawberries,,,
+Watermelon,,,0
+Mango,,,0
+Pineapple,,,0
+Lemon,,,0
+Blueberry,,,0
+Raspberry,,,0
+Pear,,,0
+Cherry,,,0
+Peach,,,0
+Kiwi,,,0
+Avocado,,,0
+Grapefruit,,,0
+Plum,,,0
+Papaya,,,0
+Cranberry,,,0
+Tomato,,,0
+Potato,,,0
+Carrot,,,0
+Onion,,,0
+Cucumber,,,0
+Lettuce,,,0
+Broccoli,,,0
+Bell pepper,,,0
+Spinach,,,0
+Cauliflower,,,0
+Zucchini,,,0
+Eggplant,,,0
+Celery,,,0
+Asparagus,,,0
+Kale,,,0
+Green beans,,,0
+Brussels sprouts,,,0
+Radish,,,0
+Cabbage,,,0
+Sweet potato,,,0
+Egg Yolk,,,0
+Egg Yolks,,,0
+Cow's Milk,,,0
+Cocoa Mass,,,0
+Cocoa Butter,,,0
+milk fat (Cow's Milk),Cow's milk,,0
+"Vegetable Oil (Palm, Sunflower)","(Palm, Sunflower)",,0
+Palm,,,0
+Sunflower,,,0
+Alkalized Cocoa Powder,,,0
+Soy Lecithin (INS 322),,,0
+Polyglycerol Polyricinoleate (INS 476),from caster oil,,0
+"Artificial Flavor, Vanillin",,,0
+wheat flour,,,0
+Coconut,,,0
+Milk Solids,Cow's Milk,,
+Brown Sugar,,,0
+Wafer,"Wheat Flour, Palm Kernel Oil, Glucose Powder, Stabilisers (E500(ii), E170), Salt, Emulsifier (Soya Lecithin)",,0
+Palm Kernel Oil,,,0
+Glucose Powder,,,0
+Stabilisers,"E500(ii), E170",,0
+Emulsifier,(Soya Lecithin),,0
+contains stabilisers and emulsifiers (including soya lecithin) as permitted food conditioners,halal sources,,0
+permitted flavouring and colouring substances,halal sources,,0
+skim milk powder (cow's milk),halal sources,,0
+lactose (cow's milk),halal sources,,0
+lactose (cow's milk)),halal sources,,0
+ins 322,halal sources,,0
+emulsifiers: soy lecithin (ins 322),halal sources,,0
+"polyglycerol polyricinoleate (ins 476) from castor oil, artificial flavor: vanillin)",halal sources,,0
+artificial flavor: vanillin,halal sources,,0
+milk chocolate (sugar,halal sources,,0
+polyglycerol polyricinoleate (ins 476) from castor oil,halal sources,,0
+milk powders,halal sources,,0
+emulsifier (sodium phosphate),halal sources,,0
+iodized salt,,,0
+food acid (lactic acid),halal sources,,0
+mineral (calcium phosphate),halal sources,,0
+preservative (potassium sorbate),halal sources,,0
+natural color (oleoresin paprika),halal sources,,0
+"vitamins (retinyl palmitate, cholecalciferol)",halal sources,,0
+modified food starch,halal sources,,0
+"vegetable oil (may contain one or more of the following: coconut oil, palm kernel oil, palm oil, palm kernel olein, palm olein)",halal sources,,0
+spices (contains mustard),halal sources,,0
+natural and nature identical cheese flavor,halal sources,,0
