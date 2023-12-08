@@ -37,28 +37,24 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 ## Project Workflow
 
 1. **Gathering Ingredient Data**
-- **Goal**: Collect comprehensive data on ingredients, categorized into halal, non-halal, and uncertain groups.
+- Collect comprehensive data on ingredients, categorized into halal, non-halal, and uncertain groups.
 
 2. **Capturing Label Images**
-- **Approach**: Photograph labels of products to capture detailed ingredient information.
+- Photograph labels of products to capture detailed ingredient information.
 
 3. **Extracting Text from Images**
-- **Technique**: Use image text recognition technology to identify and document ingredients from images.
+- Use image text recognition technology to identify and document ingredients from images.
 
 4. **Verifying Ingredient's Halal Status**
-- **Method**:
   - Cross-reference ingredients with an established list.
   - Determine and report halal status:
-    - Label as "Halal" if ingredients match the halal category.
-    - Note as doubtful or non-halal based on list categorization.
+    - Label as "Halal" if ingredients match the halal category 'doubtful' or 'non-halal' based on list categorization.
 
 5. **Handling Ingredients Not in List**
-- **Tactic**:
   - Utilize the OpenAI model for assessing the halal status of unlisted ingredients.
   - Announce the determined status for these ingredients.
 
 6. **System Backend Enhancement**
-- **Actions**:
   - Improve the system's precision and functionality through backend development.
 
 7. **Chat Model Refinement**
@@ -72,6 +68,11 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 **Optimal Model Performance:**
 - Gpt-3.5-turbo-1106
 - Formulation of prompts, a pivotal role in influencing model performance
+- scores:
+    - answer relevancy 0.968
+    - faithfulness 0.8
+
+
 
 ### Future Developments
 
@@ -81,7 +82,7 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 **Detailed Analysis of Sub-Ingredients:** 
 - Enhancing halal status determination requires analyzing both main and sub-ingredients for a comprehensive understanding of ingredient lists
 
-** Refining Halal Status Determination**
+**Refining Halal Status Determination**
 
 **Ongoing Model Improvement:**
 
@@ -89,3 +90,23 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 
 
 
+
+## Files Uploaded
+
+- Ingredient Analysis App [app.py](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/app.py)
+    - [image](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/snack.jpg) used as an image in the app
+- backend processing for the app [backend_processing.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/backend_processing.ipynb)
+- Main code workflow for the app [final_gpt.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/final_gpt.ipynb)
+- [slides](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/slides) - consist of 2 different formats of ppt slides
+- [storage](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/storage) - This folder contains the directory to store all indexed pdf and htm data for backend_processing
+
+Appendix files
+- [data](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/data) - This data files contains both pdf, htm and csv files. 
+    - CSV file here,  [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv)  are only used for the [final_gpt.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/final_gpt.ipynb)
+- [train_questions.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/train_questions.txt), [evaluation.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/eval_questions.txt), [finetuning_events.jsonl](finetuning_events.jsonl) is a file generated when running the backend_processing
+- Other backend processing files for reference to scores 
+    - [cd](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/cd) - This folder contains the files used for processing the data before the [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv) is convert to a pdf file [ingred_list.pdf](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/ingred_list.pdf). Do not run the code in this book as it is only meant for referencing scores.
+    - [task](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/task) This folder contains the files when doing a task oriented prompt for backend_processing.
+        
+
+        
