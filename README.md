@@ -34,6 +34,15 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
     - [World of Islam Food Numbers](https://special.worldofislam.info/Food/numbers.html)
     - [Islamcan.com](https://islamcan.com/blog/2020/01/halal-and-haram-ingredient-database/)
 
+### Data Dictionary
+
+| Column Name               | Description                                                                                               |
+|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| `ingred_name`             | Code or short identifier for each ingredient.                                                             |
+| `chem_name`               | The chemical name of the ingredient.                                                                      |
+| `description`             | A brief description of the ingredient, indicating its use or properties.                                 |
+| `halal_non_halal_doubtful` | Numerical value indicating the halal status: 0 for Halal, 1 for Non-Halal, 2 for Doubtful.               |
+
 ## Project Workflow
 
 1. **Gathering Ingredient Data**
