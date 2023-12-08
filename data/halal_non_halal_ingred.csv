@@ -773,7 +773,7 @@ Olive Oil,,,0
 Olive Pomace Oil,,,0
 Extra Virgin Oil,,,0
 Onion,,,0
-Palm,Oil,,
+Palm,,Oil,
 Palm Oil,,,0
 Palm Olein,,,0
 Papain,,,0
@@ -925,7 +925,7 @@ Wheat,,,0
 Wheat powder,,,0
 Wheat Flour,,,0
 Whey,,,2
-whey powder (from milk),(from milk),,0
+whey powder (from milk),,(from milk),0
 whey powder,,,2
 Whey Protein Concentrate,,,2
 Wine,,,1
@@ -982,43 +982,44 @@ Egg Yolks,,,0
 Cow's Milk,,,0
 Cocoa Mass,,,0
 Cocoa Butter,,,0
-milk fat (Cow's Milk),Cow's milk,,0
-"Vegetable Oil (Palm, Sunflower)","(Palm, Sunflower)",,0
+milk fat (Cow's Milk),,Cow's milk,0
+"Vegetable Oil (Palm, Sunflower)",,"(Palm, Sunflower)",0
 Palm,,,0
 Sunflower,,,0
 Alkalized Cocoa Powder,,,0
 Soy Lecithin (INS 322),,,0
-Polyglycerol Polyricinoleate (INS 476),from caster oil,,0
+Polyglycerol Polyricinoleate (INS 476),,from caster oil,0
 "Artificial Flavor, Vanillin",,,0
 wheat flour,,,0
 Coconut,,,0
-Milk Solids,Cow's Milk,,
+Milk Solids,,Cow's Milk,
 Brown Sugar,,,0
-Wafer,"Wheat Flour, Palm Kernel Oil, Glucose Powder, Stabilisers (E500(ii), E170), Salt, Emulsifier (Soya Lecithin)",,0
+Wafer,,"Wheat Flour, Palm Kernel Oil, Glucose Powder, Stabilisers (E500(ii), E170), Salt, Emulsifier (Soya Lecithin)",0
 Palm Kernel Oil,,,0
 Glucose Powder,,,0
-Stabilisers,"E500(ii), E170",,0
-Emulsifier,(Soya Lecithin),,0
-contains stabilisers and emulsifiers (including soya lecithin) as permitted food conditioners,halal sources,,0
-permitted flavouring and colouring substances,halal sources,,0
-skim milk powder (cow's milk),halal sources,,0
-lactose (cow's milk),halal sources,,0
-lactose (cow's milk)),halal sources,,0
-ins 322,halal sources,,0
-emulsifiers: soy lecithin (ins 322),halal sources,,0
-"polyglycerol polyricinoleate (ins 476) from castor oil, artificial flavor: vanillin)",halal sources,,0
-artificial flavor: vanillin,halal sources,,0
-milk chocolate (sugar,halal sources,,0
-polyglycerol polyricinoleate (ins 476) from castor oil,halal sources,,0
-milk powders,halal sources,,0
-emulsifier (sodium phosphate),halal sources,,0
+Stabilisers,,"E500(ii), E170",0
+Emulsifier,,(Soya Lecithin),0
+contains stabilisers and emulsifiers (including soya lecithin) as permitted food conditioners,,halal sources,0
+permitted flavouring and colouring substances,,halal sources,0
+skim milk powder (cow's milk),,halal sources,0
+lactose (cow's milk),,halal sources,0
+lactose (cow's milk)),,halal sources,0
+ins 322,,halal sources,0
+emulsifiers: soy lecithin (ins 322),,halal sources,0
+"polyglycerol polyricinoleate (ins 476) from castor oil, artificial flavor: vanillin)",,halal sources,0
+artificial flavor: vanillin,,halal sources,0
+milk chocolate (sugar,,halal sources,0
+polyglycerol polyricinoleate (ins 476) from castor oil,,halal sources,0
+milk powders,,halal sources,0
+emulsifier (sodium phosphate),,halal sources,0
 iodized salt,,,0
-food acid (lactic acid),halal sources,,0
-mineral (calcium phosphate),halal sources,,0
-preservative (potassium sorbate),halal sources,,0
-natural color (oleoresin paprika),halal sources,,0
-"vitamins (retinyl palmitate, cholecalciferol)",halal sources,,0
-modified food starch,halal sources,,0
-"vegetable oil (may contain one or more of the following: coconut oil, palm kernel oil, palm oil, palm kernel olein, palm olein)",halal sources,,0
-spices (contains mustard),halal sources,,0
-natural and nature identical cheese flavor,halal sources,,0
+food acid (lactic acid),,halal sources,0
+mineral (calcium phosphate),,halal sources,0
+preservative (potassium sorbate),,halal sources,0
+natural color (oleoresin paprika),,halal sources,0
+"vitamins (retinyl palmitate, cholecalciferol)",,halal sources,0
+modified food starch,,halal sources,0
+"vegetable oil (may contain one or more of the following: coconut oil, palm kernel oil, palm oil, palm kernel olein, palm olein)",,halal sources,0
+spices (contains mustard),,halal sources,0
+natural and nature identical cheese flavor,,halal sources,0
+"vegetable oil (palm, sunflower)",,,0
