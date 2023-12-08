@@ -1,0 +1,40 @@
+Is acetone considered a halal ingredient?
+What is the source of acetone?
+How is acetone processed?
+Does the source or processing method of acetone affect its halal status?
+Is there any information available to determine the halal status of acetone?
+Can acetone be considered non-halal or doubtful based on the available information?
+Is there any reason to believe that acetone is not halal?
+Is acetone identifiable as halal or non-halal based on the provided context information?
+Does the halal status of acetone impact the overall halal status of the food product?
+Can the food product be considered halal if acetone is determined to be non-halal or doubtful?
+What is the halal status of the ingredient "Rennet"?
+Is "Rennet" considered halal, non-halal, or doubtful?
+Can the halal status of "Rennet" be determined based on the available information?
+Does the source or processing method of "Rennet" affect its halal status?
+Is there enough information to determine if "Rennet" is halal or non-halal?
+What is the significance of the halal_non_halal_doubtful value of 2 for "Rennet"?
+Is "Rennet" considered halal in all cases, or are there exceptions?
+Can the overall halal status of the food product be determined if "Rennet" is doubtful?
+If "Rennet" is non-halal, does it automatically make the entire food product non-halal?
+What additional information is needed to determine the halal status of "Rennet"?
+Is yeast extract from brewer yeast considered halal?
+What is the source of the yeast extract from brewer yeast?
+How is the yeast extract from brewer yeast processed?
+Is there any information available about the halal status of yeast extract from brewer yeast?
+Can the halal status of yeast extract from brewer yeast be determined based on the available information?
+Is there any doubt regarding the halal status of yeast extract from brewer yeast?
+Is yeast extract from brewer yeast considered non-halal?
+Is the halal status of yeast extract from brewer yeast identifiable?
+Does the lack of information about yeast extract from brewer yeast affect its halal status?
+Does the halal status of yeast extract from brewer yeast impact the overall halal status of the food product?
+Is eggplant considered halal?
+What is the halal status of eggplant?
+Can eggplant be classified as non-halal?
+Is there any doubt regarding the halal status of eggplant?
+Based on the available information, is eggplant halal, non-halal, or doubtful?
+Does the source or processing method of eggplant affect its halal status?
+Is there any specific information about eggplant that would determine its halal status?
+Can the halal status of eggplant be determined based on the provided context information?
+Is there any reason to believe that eggplant is not halal?
+Is there any information missing that would help determine the halal status of eggplant?
