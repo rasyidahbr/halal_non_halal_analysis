@@ -93,9 +93,9 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 
 **Refining Halal Status Determination**
 
-**Ongoing Model Improvement:**
+**Ongoing Model Improvement**
 
-**Incorporating User Feedback:**
+**Incorporating User Feedback**
 
 
 
