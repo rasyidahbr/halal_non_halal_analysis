@@ -102,17 +102,19 @@ Accessing accurate Halal product information is challenging, hindering Muslim co
 
 ## Files Uploaded
 
-- Ingredient Analysis App [app.py](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/app.py)
-    - [image](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/snack.jpg) used as an image in the app
-- backend processing for the app [backend_processing.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/backend_processing.ipynb)
+- Ingredient Analysis App [app.py](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/app.py).
+    - [snack.jpg](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/snack.jpg) used as an image in the app.
+- backend processing for the app [backend_processing.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/backend_processing.ipynb).
 - Main code workflow for the app [final_gpt.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/final_gpt.ipynb)
-- [slides](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/slides) - consist of 2 different formats of ppt slides
-- [storage](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/storage) - This folder contains the directory to store all indexed pdf and htm data for backend_processing
+- [slides](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/slides) - consist of 2 different formats of ppt slide formats.
+- [storage](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/storage) - This folder contains the directory to store all indexed pdf and htm data for backend_processing.
+- [EDA](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/EDA.ipynb) - EDA on the [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv). 
 
 Appendix files
 - [data](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/data) - This data files contains both pdf, htm and csv files. 
     - CSV file here,  [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv)  are only used for the [final_gpt.ipynb](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/final_gpt.ipynb)
 - [train_questions.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/train_questions.txt), [evaluation.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/eval_questions.txt), [finetuning_events.jsonl](finetuning_events.jsonl) is a file generated when running the backend_processing
+- [scores](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/df_gpt_35.csv) Scores generated using ragas for each question after fine tuning
 - Other backend processing files for reference to scores 
     - [cd](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/cd) - This folder contains the files used for processing the data before the [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv) is convert to a pdf file [ingred_list.pdf](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/ingred_list.pdf). Do not run the code in this book as it is only meant for referencing scores.
     - [task](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/task) This folder contains the files when doing a task oriented prompt for backend_processing.
