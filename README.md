@@ -116,8 +116,8 @@ Appendix files
 - [train_questions.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/train_questions.txt), [evaluation.txt](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/eval_questions.txt), [finetuning_events.jsonl](finetuning_events.jsonl) is a file generated when running the backend_processing
 - [scores](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/df_gpt_35.csv) Scores generated using ragas for each question after fine tuning
 - Other backend processing files for reference to scores 
-    - [cd](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/cd) - This folder contains the files used for processing the data before the [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv) is convert to a pdf file [ingred_list.pdf](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/ingred_list.pdf). Do not run the code in this book as it is only meant for referencing scores.
-    - [task](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/task) This folder contains the files when doing a task oriented prompt for backend_processing.
+    - [cd](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/cd) - This folder contains the files used and generated used for processing the data before the [halal_non_halal_ingred.csv](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/halal_non_halal_ingred.csv) is convert to a pdf file [ingred_list.pdf](https://github.com/rasyidahbr/halal_non_halal_analysis/blob/main/data/ingred_list.pdf). Do not run the code in this book as it is only meant for referencing scores.
+    - [task](https://github.com/rasyidahbr/halal_non_halal_analysis/tree/main/task) - This folder contains the files used and generated when doing a task oriented prompt for backend_processing.
         
 
         
