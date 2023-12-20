@@ -1,5 +1,5 @@
 
-# Automated Halal Product Identification through Ingredient Analysis
+# Halal, Non-Halal Analysis
 
 
 ## Background
