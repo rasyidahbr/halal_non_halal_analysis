@@ -1,5 +1,5 @@
 
-# Halal, Non-Halal Analysis
+# Halal or Not: Ingredient Analysis
 
 
 ## Background
