@@ -251,22 +251,27 @@ def main():
             st.caption("Example: *water, sugar, E471, flavor enhancer (621)*")
 
     with col_right:
-        with st.expander("📸 Image tips (recommended)", expanded=False):
-            st.markdown(
-                "- Crop your image to focus directly on the ingredients list\n"
-                "- Include both the **“Ingredients:”** label and the actual list\n"
-                "- Ensure names are readable\n"
-                "- Use good lighting and avoid glare\n"
-                "- Higher resolution images work better"
-            )
-        with st.expander("🍶 Tips for cylindrical bottles", expanded=False):
-            st.markdown(
-                "- Take multiple photos if the list wraps around\n"
-                "- Rotate the bottle to reduce curvature distortion\n"
-                "- Keep the ingredients list centered\n"
-                "- Place on a flat surface and rotate toward the camera\n"
-                "- Use panorama mode for long wrapping lists"
-            )
+        st.markdown("#### 📸 Image tips (recommended)")
+        st.markdown(
+            """
+            - Crop your image to focus directly on the ingredients list  
+            - Include both the **“Ingredients:”** label and the actual list  
+            - Ensure names are readable  
+            - Use good lighting and avoid glare  
+            - Higher resolution images work better  
+            """
+        )
+
+        st.markdown("#### 🍶 Tips for cylindrical bottles")
+        st.markdown(
+            """
+            - Take multiple photos if the list wraps around  
+            - Rotate the bottle to reduce curvature distortion  
+            - Keep the ingredients list centered  
+            - Place on a flat surface and rotate toward the camera  
+            - Use panorama mode for long wrapping lists  
+            """
+        )
 
     # Optional: image enhancement toggle (only when uploading)
     enhance_image = False
