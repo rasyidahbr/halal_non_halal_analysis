@@ -45,10 +45,10 @@ background-color: rgba(0, 0, 0, 0);
 </style>
 """
 
-st.title('Chat with an Ingredient Specialist :fries: :icecream: :pretzel: :popcorn: :cookie:')
+st.title('Halal Ingredient Analysis :fries: :icecream: :pretzel: :popcorn: :cookie:')
 st.markdown(custom_css, unsafe_allow_html=True)
-st.caption("powered by LlamaIndex, finetuned GPT3.5turbo and GPT-Vision preview")
-st.caption("Disclaimer: I was created by a being who isn't from MUIS for pure experimental use.")
+st.caption("Halal ingredient analysis powered by comprehensive database and AI")
+st.caption("Disclaimer: For educational and experimental use. Consult Islamic scholars for definitive rulings.")
     
 #####################
 
