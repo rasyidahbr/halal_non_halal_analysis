@@ -1,0 +1,10 @@
+[general]
+email = "9RASYIDAH_ROSLAN@singaporeair.com.sg"
+
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
