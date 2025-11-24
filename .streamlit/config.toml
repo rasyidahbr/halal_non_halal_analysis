@@ -1,10 +1,18 @@
-[general]
-email = "9RASYIDAH_ROSLAN@singaporeair.com.sg"
+[server][general]
 
-[server]
-headless = true
-port = $PORT
+port = 8080email = "9RASYIDAH_ROSLAN@singaporeair.com.sg"
+
+address = "0.0.0.0"
+
+headless = true[server]
+
+enableCORS = falseheadless = true
+
+enableXsrfProtection = falseport = $PORT
+
 enableCORS = false
 
 [browser]
+
+gatherUsageStats = false[browser]
 gatherUsageStats = false
