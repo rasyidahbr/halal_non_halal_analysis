@@ -1,6 +1,1 @@
 streamlit
-pandas
-pillow
-python-dotenv
-openai
-requests
